@@ -1,0 +1,20 @@
+{
+    "folders": [
+      {
+        // Source code
+        "name": "docs",
+        "path": "docs"
+      },
+      {
+        // Docs and release notes
+        "name": "Exporter",
+        "path": "exporter"
+      },
+      {
+        // Yeoman extension generator
+        "name": "Processor",
+        "path": "processor"
+      }
+    ]
+  }
+  
